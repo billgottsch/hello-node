@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/billgottsch/hello-node/issues"
   },
-  "homepage": "https://github.com/billgottsch/hello-node#readme"
+  "homepage": "https://github.com/billgottsch/hello-node#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
